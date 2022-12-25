@@ -1,0 +1,4 @@
+git rm -r .vs/
+git rm -r SistemPergudangan/bin/
+git rm -r SistemPergudangan/obj/Debug
+git rm -r SistemPergudangan/obj/Release
