@@ -135,7 +135,7 @@ Public Class User
                 sqlcommand = New MySqlCommand(sqlquery, dbconn)
                 sqlread = sqlcommand.ExecuteReader
 
-                MsgBox("Berhasil Tambah Data", MsgBoxStyle.Information, "Sukses")
+                MsgBox("Register Berhasil", MsgBoxStyle.Information, "Sukses")
                 sqlread.Close()
                 dbconn.Close()
             End If
