@@ -1,4 +1,4 @@
 .vs/
-SistemPergudangan/bin/
-SistemPergudangan/obj/Debug
-SistemPergudangan/obj/Release
+SistemPergudangan/
+pergudangan.sql
+SistemPergudangan.sln
