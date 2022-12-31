@@ -4,22 +4,10 @@
     <Compile Update="BarangMasuk.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="EditJenisBarang.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="HapusJenisBarang.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="JenisBarang.vb">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Login.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Register.vb">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="TambahJenisBarang.vb">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
