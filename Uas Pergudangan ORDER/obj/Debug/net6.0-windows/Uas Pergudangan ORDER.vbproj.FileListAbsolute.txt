@@ -1,7 +1,0 @@
-C:\Users\kiran\source\repos\Uas Pergudangan ORDER\Uas Pergudangan ORDER\obj\Debug\net6.0-windows\Uas Pergudangan ORDER.vbproj.AssemblyReference.cache
-C:\Users\kiran\source\repos\Uas Pergudangan ORDER\Uas Pergudangan ORDER\obj\Debug\net6.0-windows\Uas_Pergudangan_ORDER.Order.resources
-C:\Users\kiran\source\repos\Uas Pergudangan ORDER\Uas Pergudangan ORDER\obj\Debug\net6.0-windows\Uas Pergudangan ORDER.vbproj.GenerateResource.cache
-C:\Users\kiran\source\repos\Uas Pergudangan ORDER\Uas Pergudangan ORDER\obj\Debug\net6.0-windows\Uas Pergudangan ORDER.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kiran\source\repos\Uas Pergudangan ORDER\Uas Pergudangan ORDER\obj\Debug\net6.0-windows\Uas Pergudangan ORDER.AssemblyInfoInputs.cache
-C:\Users\kiran\source\repos\Uas Pergudangan ORDER\Uas Pergudangan ORDER\obj\Debug\net6.0-windows\Uas Pergudangan ORDER.AssemblyInfo.vb
-C:\Users\kiran\source\repos\Uas Pergudangan ORDER\Uas Pergudangan ORDER\obj\Debug\net6.0-windows\Uas Pergudangan ORDER.vbproj.CoreCompileInputs.cache

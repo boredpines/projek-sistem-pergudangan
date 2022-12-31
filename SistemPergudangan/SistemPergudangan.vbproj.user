@@ -1,10 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="AddOrderBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="BarangMasuk.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="HapusOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Order.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Register.vb">
