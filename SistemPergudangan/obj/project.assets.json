@@ -893,19 +893,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hp\\.nuget\\packages\\": {}
+    "C:\\Users\\kiran\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\SistemPergudangan\\SistemPergudangan\\SistemPergudangan.vbproj",
+      "projectUniqueName": "C:\\Users\\kiran\\source\\repos\\projek-sistem-pergudangan\\SistemPergudangan\\SistemPergudangan.vbproj",
       "projectName": "SistemPergudangan",
-      "projectPath": "C:\\Users\\hp\\Desktop\\SistemPergudangan\\SistemPergudangan\\SistemPergudangan.vbproj",
-      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\SistemPergudangan\\SistemPergudangan\\obj\\",
+      "projectPath": "C:\\Users\\kiran\\source\\repos\\projek-sistem-pergudangan\\SistemPergudangan\\SistemPergudangan.vbproj",
+      "packagesPath": "C:\\Users\\kiran\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kiran\\source\\repos\\projek-sistem-pergudangan\\SistemPergudangan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kiran\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
