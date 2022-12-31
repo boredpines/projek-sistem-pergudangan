@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+SistemPergudangan/obj/project.assets.json
+SistemPergudangan/obj/project.nuget.cache
+SistemPergudangan/obj/SistemPergudangan.vbproj.nuget.dgspec.json
+SistemPergudangan/obj/SistemPergudangan.vbproj.nuget.g.props
